@@ -1,0 +1,6 @@
+def ejercicios():
+   input("que numero quieres?")
+   1.1= 4.0/10.0+3.5*2
+ejercicios()
+   
+   

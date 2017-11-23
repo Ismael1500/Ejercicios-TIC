@@ -1,0 +1,12 @@
+def vocales():
+    palabra= input("dime una palabra")
+    suma=0
+    for cont in range(1,len(palabra),1):
+        if palabra[cont]=="a" or palabra[cont]=="a":
+            suma=suma+1
+        if palabra[cont]=="e" or palabra[cont]=="e":
+            suma=suma+1
+    print"la palabra",palabra,"tiene",cont,"letras"
+    print"de los cuales",suma,"son vocales y", cont-suma,"sin consonante
+vocales()
+    

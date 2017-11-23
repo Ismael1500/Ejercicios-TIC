@@ -1,0 +1,5 @@
+def cadenas_2():
+    mensaje= "si aun sigues leyendo esto palabra a palabra eres tonto"
+    for cont in range (0,60,1):
+        print mensaje[cont]
+cadenas_2()

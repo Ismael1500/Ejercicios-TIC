@@ -1,0 +1,6 @@
+def cuatro():
+    r=0
+    while r<10:
+        print r
+        r=r+1
+cuatro()
