@@ -1,3 +1,3 @@
 def cadenas():
-    mensaje="eres gay y lo sabes"
+    mensaje="eres guapo y lo sabes"
 cadenas()
